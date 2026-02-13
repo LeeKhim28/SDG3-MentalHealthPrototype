@@ -1,20 +1,25 @@
-✔ Project Title & SDG Chosen
-写清楚你们选择哪个 SDG，例如：
-Quality Education (SDG 4)
-Good Health and Well-Being (SDG 3)
-✔ Team Members
-列出：
-Name
-Role（例如：Scrum Master / GitHub Manager / UI Designer / Tester）
-✔ Project Description
-简单说明：
-你们的系统是什么？
-解决什么问题？
-帮助谁？
-✔ SDLC Overview
-简单说明你们如何做：
-Planning
-Design
-Testing
-Evaluation
-⚠ 不能写太复杂，但要清楚。
+Project Title
+MindCare – Mental Health Support Prototype for Youth (Under 30)
+
+Sustainable Development Goal Chosen: SDG 3 – Good Health and Well-Being
+Our project supports SDG 3 by improving mental health awareness and access to emotional support for young people under the age of 30.
+
+Team Members
+Name 1 – Scrum Master
+Name 2 – GitHub Manager
+Name 3 – UI/UX Designer
+Name 4 – Tester
+Name 5 – Documentation Lead
+
+Project Description
+MindCare is a mental health support prototype designed for people under 30 years old.
+Many young people face stress, anxiety, academic pressure, and personal problems, but they may not know where to seek help. Our prototype aims to provide simple and safe support through digital features.The system focuses on early awareness, emotional tracking, and easy access to help resources.
+
+Target Users: Students, Young working adults, Individuals under age 30 who experience stress or emotional difficulties
+
+Main Features (Prototype)
+Daily mood tracker
+Simple self-check mental health test
+Stress management tips
+Appointment booking with counselor (prototype design)
+Emergency contact information
