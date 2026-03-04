@@ -7,9 +7,9 @@ Our project supports SDG 3 by improving mental health awareness and access to em
 
 ## Team Members
 - Thomas Wong Yong En – Scrum Master
-- Chong Lee Khim – GitHub Manager
+- Chong Lee Khim – Product Owner
 - Tiong Yu Qi & Tan Jie Ern – UI/UX Designer
-- Pan Hong Zhe – Documentation Lead
+- Pan Hong Zhe – Development Team
 
 ## Project Description
 MindCare is a mental health support prototype designed for people under 30 years old.
