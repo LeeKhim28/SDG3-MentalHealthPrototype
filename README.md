@@ -12,8 +12,11 @@ Our project supports SDG 3 by improving mental health awareness and access to em
 - Pan Hong Zhe – Development Team
 
 ## Project Description
-MindCare is a mental health support prototype designed for people under 30 years old.
-Many young people face stress, anxiety, academic pressure, and personal problems, but they may not know where to seek help. Our prototype aims to helps young people under 30 manage stress and improve emotional well-being through simple digital support tools.The system focuses on early awareness, emotional tracking, and easy access to help resources.
+MindCare is a mental health support prototype designed specifically for individuals under the age of 30. The system aims to provide accessible and user-friendly digital tools to support emotional well-being.
+Problem:
+Many young people experience stress, anxiety, academic pressure, and personal challenges in their daily lives. However, they may lack awareness of available support services or feel unsure about where and how to seek help. This often leads to unmanaged emotional distress and declining mental well-being.
+Solution:
+Our prototype aims to assist young individuals in managing stress and improving their emotional health through simple and interactive digital support tools. The system emphasizes early awareness of mental health issues, regular emotional tracking, and convenient access to helpful resources. By providing a safe and structured platform, MindCare encourages proactive mental health management and promotes overall well-being.
 
 Target Users: Students, Young working adults, Individuals under age 30 who experience stress or emotional difficulties
 
@@ -42,10 +45,16 @@ We built a clickable prototype to demonstrate the main features.
 5. Testing & Evaluation
 We collected user feedback and improved the prototype based on suggestions.
 
+## Repository Structure
+- planning/ – Project vision, user stories, product backlog, Trello
+- design/ – Use case diagram,class diagram, prototype screens design
+- testing/ – Test cases, evaluation results, user feedback
+- final/ – Final summary, reflection
+
 ## Tools Used
 GitHub – Project documentation and version control
 Trello – Task management and sprint tracking
-Figma / Canva – Prototype design
+Figma – Prototype design
 
 ## Future Improvement
 In the future, this system can include AI chatbot support and real-time counselor chat.
