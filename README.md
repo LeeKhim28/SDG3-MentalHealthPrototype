@@ -12,11 +12,7 @@ Our project supports SDG 3 by improving mental health awareness and access to em
 - Pan Hong Zhe – Development Team
 
 ## Project Description
-MindCare is a mental health support prototype designed specifically for individuals under the age of 30. The system aims to provide accessible and user-friendly digital tools to support emotional well-being.
-Problem:
-Many young people experience stress, anxiety, academic pressure, and personal challenges in their daily lives. However, they may lack awareness of available support services or feel unsure about where and how to seek help. This often leads to unmanaged emotional distress and declining mental well-being.
-Solution:
-Our prototype aims to assist young individuals in managing stress and improving their emotional health through simple and interactive digital support tools. The system emphasizes early awareness of mental health issues, regular emotional tracking, and convenient access to helpful resources. By providing a safe and structured platform, MindCare encourages proactive mental health management and promotes overall well-being.
+MindCare is a mental health support prototype designed specifically for individuals under the age of 30. Many young people face stress, anxiety, academic pressure, and personal problems, but they may not know where to seek help.This issue can lead to worsening emotional well-being if early support is not available.Therefore,MindCare aims to provide simple and accessible digital support tools to help young users manage stress and monitor their emotional health.The system focuses on promoting early awareness, emotional tracking, and easy access to relevant mental health resources, encouraging users to take proactive steps toward maintaining their well-being.
 
 Target Users: Students, Young working adults, Individuals under age 30 who experience stress or emotional difficulties
 
