@@ -1,22 +1,22 @@
-Sprint 1: Core system setup (account + mood tracking)
-- Implement user registration feature
-- Implement user login system
-- Develop mood selection interface
-- Store mood and emotional records
+Sprint 1: Planning & Basic Development
+- Create Use Case Diagram for MindCare system
+- Design Class Diagram for system structure
+- Create Wireframes for main screens
+- Design User Interface screens for core features
+- Develop User Registration feature 
+- Develop User Login feature
+- Implement Manage Account function
+- Set up GitHub repository
 
 Sprint 2: Mental health support features
-- Implement mood insights and history
-- Develop MindCare assistant chat feature
-- Implement wind-down activities section
-- Implement breathing exercise feature
-- Implement relaxing sounds feature
-- Implement sleep stories feature
-- Implement smart wind-down tips
-
-Sprint 3: Therapist connection and counselling system
-- Implement therapist connection feature
-- Implement counselling session joining
-- Implement therapist availability management
-- Implement counselling session feature
-- Implement video counselling session
-- Implement text counselling session
+- Design Prototype for MindCare app
+- Implement Record Mood feature 
+- Implement Save Emotion Record 
+- Develop View Mood Insights page
+- Implement Chat with MindCare Assistant 
+- Develop Therapist listing page 
+- Implement Join Counselling Session 
+- Create Wind-Down Activities page 
+- Implement Breathing Exercise feature 
+- Add Relaxing Sounds feature 
+- Conduct system testing and bug fixing
