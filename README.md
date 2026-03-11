@@ -18,14 +18,18 @@ Target Users: Students, Young working adults, Individuals under age 30 who exper
 
 ## Main Features (Prototype)
 - Daily mood tracker
-- Simple self-check mental health test
-- Stress management tips
-- Appointment booking with counselor (prototype design)
-- Emergency contact information
+- View mood insights
+- Chat with MindCare assistant
+- Connect with therapist
+- Join counseling session
+- Wind-down activities
+- Breathing exercise
+- Relaxing sounds
+- Sleep stories
 
 ## Agile Process
 We used Scrum methodology with two sprints.
-Trello was used to manage tasks and GitHub was used to track project progress.
+Trello was used to manage tasks in specific sprint and GitHub was used to store the artifacts we done.
 Each sprint includes planning, development, review, and retrospective.
 
 ## SDLC Overview
@@ -49,8 +53,10 @@ We collected user feedback and improved the prototype based on suggestions.
 
 ## Tools Used
 GitHub – Project documentation and version control
+
 Trello – Task management and sprint tracking
+
 Figma – Prototype design
 
 ## Future Improvement
-In the future, this system can include AI chatbot support and real-time counselor chat.
+In the future, this system can Include an emergency support button to quickly contact hotlines or trusted contacts,develop a community forum for users to share experiences and support each other, and add gamification features such as rewards or challenges to encourage regular use.
