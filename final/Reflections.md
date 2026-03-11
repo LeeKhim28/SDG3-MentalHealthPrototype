@@ -24,3 +24,10 @@ In this project, I managed the Agile development process via Trello and contribu
 A key challenge was maintaining real-time accuracy on the Kanban board, which required constant team communication to track task movement and ensure accountability. This experience deepened my ability to translate complex requirements into logical structures—such as User and Therapist interactions—while preventing scope creep.
 
 Ultimately, this project highlighted the importance of visual tracking and adaptability, providing me with essential project management skills aligned with SDG 3 objectives that I will apply to future software engineering endeavors.
+
+## 4. Tiong Yu Qi 0384354
+ In this project, my main responsibility was developing the prototype of the MindCare system and supporting the Scrum sprint activities during the development process. I was responsible for designing and improving the user interface so that the prototype could clearly demonstrate the main functions of the system, such as mood recording and chatting with the MindCare assistant. Through this role, I realized that building a prototype is not only about showing system features, but also about helping the team visualize the system idea and understand how users will interact with the system.
+
+During the project, our team used the Agile Scrum approach to organize the development process. By working in sprints, I learned how complex tasks can be divided into smaller and more manageable parts. This helped the team focus on clear goals during each stage of development. Using tools such as Trello also helped me understand how project management tools can support teamwork by making task progress visible to all team members.
+
+From this experience, I learned that Agile development  is not only about completing tasks quickly, but also about continuous improvement. Through the sprint process, we were able to improve the prototype step by step and refine the user interface based on feedback. This project helped me gain a better understanding of  Scrum practices, teamwork, and the importance of iterative development when designing a user-centered software system.
