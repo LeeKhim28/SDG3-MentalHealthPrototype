@@ -17,3 +17,10 @@ During the process of the project, I have realized that team communication is of
 Through this project, I have been able to understand more about the Agile Scrum development method and the SDLC development process. For example, by using the Sprint method, complex tasks can be completed in stages, thus making it easy to manage the progress of the project. At the same time, by using tools like Trello and GitHub, I have also learned the importance of project management tools in the team.
 
 If I am involved in a similar project again in the future, I will carry out clearer task allocation and communication at the beginning of the project, this can help reduce the problems that may arise during the later process of organizing the materials. Overall, this project has enabled me to gain a deeper understanding of the software engineering development process and teamwork.
+
+## 3. Thomas Wong Yong En 0380287
+In this project, I managed the Agile development process via Trello and contributed to system design through UML diagrams for the MindCare system. By dividing our workflow into four weeks and two core sprints, I transitioned from a theoretical understanding of Scrum to practical execution, learning to prioritize essential features like Mood Tracking and the AI Assistant.
+
+A key challenge was maintaining real-time accuracy on the Kanban board, which required constant team communication to track task movement and ensure accountability. This experience deepened my ability to translate complex requirements into logical structures—such as User and Therapist interactions—while preventing scope creep.
+
+Ultimately, this project highlighted the importance of visual tracking and adaptability, providing me with essential project management skills aligned with SDG 3 objectives that I will apply to future software engineering endeavors.
